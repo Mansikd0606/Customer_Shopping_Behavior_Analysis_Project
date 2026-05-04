@@ -82,35 +82,3 @@ Clone the repository:
 git clone https://github.com/Mansikd0606/Customer_Shopping_Behavior_Analysis_Project.git
 
 
-Install required libraries:
-
-
-pip install pandas numpy matplotlib seaborn
-
-
-Run the Python scripts for data cleaning:
-
-
-python data_cleaning.py
-
-
-Execute SQL queries in your SQL environment
-
-
-Open the dashboard file (Power BI / visualization tool)
-
-
-
-📌 Future Improvements
-
-
-Add machine learning model for customer prediction
-
-
-Automate data pipeline
-
-
-Deploy dashboard online
-
-
-
